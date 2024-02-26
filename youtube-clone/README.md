@@ -37,3 +37,18 @@
 - Caching
 
 - N-level nesting comments
+
+- Live Chat >>>>>> Infinite scroll >>>> Pagination
+
+
+------- CHallenges in LIve Chat
+--get live data - Data Layer
+-- update the UI - Ui Layer
+
+- Data(Live)
+    - Web Sockets - Bidirection Live Data(No regular interval)
+        - (Zerodha,Any Stock App,Whatsapp)
+    - Long Polling (Api Polling) - onedirection (Interval) 
+        - (Gmail , Cricbuzz,Youtube)
+
+- UI 
